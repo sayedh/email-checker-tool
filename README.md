@@ -13,7 +13,7 @@ This is a project built with Golang. A simple tool where one can verify an email
 ```
 git clone https://github.com/sayedh/email-checker-tool
 cd email-checker-tool
-go run main.gp
+go run main.go
 ```
 
 * Specify the domain of the email address
